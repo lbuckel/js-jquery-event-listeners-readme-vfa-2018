@@ -8,7 +8,7 @@ function getIt(){
 
 function frameIt(){
 	$('img').on("load", function(){
-		style.borderColor = "red";
+		img.style.borderColor = "red";
 		}
 	)}
 
